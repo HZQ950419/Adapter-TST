@@ -202,8 +202,8 @@ The code implementation of our EMNLP'23 Findings "Adapter-TST: A Parameter Effic
     BertScore
     ```python
     python BERTscore_evaluator.py \
-        --ref-file-path trained_models/yelp_outputs/StyleTransformer/reference.txt \
-        --gen-file-path trained_models/yelp_outputs/StyleTransformer/generated_predictions.txt
+        --ref-file-path trained_models/adapter-tst-tense-adjadv-removal-t5/reference_comp_1.txt \
+        --gen-file-path trained_models/adapter-tst-tense-adjadv-removal-t5/generated_predictions_comp_1.txt
     ```
 
     PPL
