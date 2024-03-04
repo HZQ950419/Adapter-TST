@@ -16,7 +16,7 @@ The code implementation of our EMNLP'23 Findings "Adapter-TST: A Parameter Effic
 
     Remember to change to the path in following file:
 
-        1. /home/zqhu/home/Adapter-TST/examples/pytorch/summarization.py L25, L27
+        1. examples/pytorch/summarization.py L25, L27
         2. PPL_score.py L2
         3. classifer/textcnn.py L9, L18
 
