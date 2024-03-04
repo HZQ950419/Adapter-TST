@@ -11,6 +11,7 @@ The code implementation of our EMNLP'23 Findings "Adapter-TST: A Parameter Effic
     `unzip glove.840B.300d.zip`
 
 2. Install the dependencies
+
     Huggingface `transformers` shouldn't be installed. 
 
     Remember to change to the path in following file:
